@@ -35,4 +35,8 @@ Which of two proposed marine protected areas (MPAs) in Carmel Bay would protect 
 distances from kelp beds show higher rockfish presence because it’s essential to their survival
 - **MPA 1** contains 112,300 m² of predicted habitat (76% of its area), compared with
   4,200 m² (3%) in MPA 2.
-- **Recommendation:** Potential MPA 1 contains more suitable habitat than potential MPA 2 and, as a result, should be proposed as a new MPA. 
+- **Recommendation:** Potential MPA 1 contains more suitable habitat than potential MPA 2 and, as a result, should be proposed as a new MPA.
+
+## Tools
+ArcGIS Pro (ModelBuilder, Raster Calculator, Zonal Statistics) · R (GLM, AIC model selection)
+
